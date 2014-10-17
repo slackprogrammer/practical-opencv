@@ -1,4 +1,4 @@
 practical-opencv
 ================
 
-The code of book 'Practical Opencv' 
+This is the code of book "Practical Opencv"
